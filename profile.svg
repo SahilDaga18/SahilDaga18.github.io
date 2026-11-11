@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480">
+  <rect width="400" height="480" fill="#1B2A41"/>
+  <g stroke="#2E4363" stroke-width="1">
+    <line x1="0" y1="120" x2="400" y2="120"/><line x1="0" y1="240" x2="400" y2="240"/><line x1="0" y1="360" x2="400" y2="360"/>
+    <line x1="100" y1="0" x2="100" y2="480"/><line x1="200" y1="0" x2="200" y2="480"/><line x1="300" y1="0" x2="300" y2="480"/>
+  </g>
+  <rect x="60" y="300" width="40" height="100" fill="#C9D3E0"/>
+  <rect x="130" y="250" width="40" height="150" fill="#C9D3E0"/>
+  <rect x="200" y="200" width="40" height="200" fill="#C9D3E0"/>
+  <rect x="270" y="140" width="40" height="260" fill="#C8102E"/>
+  <polyline points="80,280 150,230 220,180 290,110" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+  <circle cx="290" cy="110" r="8" fill="#FFFFFF"/>
+  <text x="40" y="80" font-family="Arial, sans-serif" font-size="56" font-weight="700" fill="#FFFFFF">SD</text>
+  <text x="40" y="450" font-family="Arial, sans-serif" font-size="20" fill="#C9D3E0">Data Science + Business</text>
+</svg>
